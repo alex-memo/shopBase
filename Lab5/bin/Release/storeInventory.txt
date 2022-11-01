@@ -1,0 +1,6 @@
+Helmet	Apparel
+Chestplate	Apparel
+Leggings	Apparel
+Boots		Apparel
+Sword		Weapons
+Shield	Weapons

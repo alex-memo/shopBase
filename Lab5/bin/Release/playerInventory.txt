@@ -1,0 +1,3 @@
+Chestplate	Apparel
+Boots		Apparel
+Iron sword	Weapons
